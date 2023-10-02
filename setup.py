@@ -21,14 +21,14 @@ required_pypi = [
 ]
 
 setuptools.setup(
-    name="project_name",
+    name="data_buddy",
     version="0.01",
     author="Microsoft Research",
     author_email="",
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/csinva/cookiecutter-ml-research",
+    url="",
     packages=setuptools.find_packages(
         exclude=['tests', 'tests.*', '*.test.*']
     ),
